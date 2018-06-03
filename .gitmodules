@@ -1,0 +1,3 @@
+[submodule "dddsample-citerus"]
+	path = dddsample-citerus
+	url = https://github.com/DanilSuits/dddsample-core
